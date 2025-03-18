@@ -1,0 +1,6 @@
+# Ignore model files
+*.h5
+*.hdf5
+*.pb
+*.pkl
+*.zip
